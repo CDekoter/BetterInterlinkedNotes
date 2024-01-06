@@ -1,0 +1,16 @@
+<Note n="00001">
+	<character ID="00001" x="861" y="399" szx="146" szy="36">
+		<Source>Mulholland Drive</Source>
+		<Author>David Lynch</Author>
+		<Name>Betty</Name>
+		<Description>Aspiring Actress</Description>
+		<Paragraph>Aspiring actress who stay's at her Aunt Ruth's</Paragraph>
+		<Tag>Protagonist</Tag><Tag>Paranoid</Tag><Tag>Woman</Tag><Tag>Sober</Tag><Link LT="Family" BTWN="Aunt Ruth" /></character>
+	<character ID="00002" x="861" y="399" szx="146" szy="36">
+		<Source>Mulholland Drive</Source>
+		<Author>David Lynch</Author>
+		<Name>Aunt Ruth</Name>
+		<Description>Hollywood Aunt</Description>
+		<Paragraph>Aunt of Betty</Paragraph>
+		<Tag>Middleaged</Tag></character>
+</Note>

@@ -1,0 +1,263 @@
+<Note n="00059">
+	<character ID="00001" x="861" y="399" szx="146" szy="36">
+		<Source>The Crying of Lot 49</Source>
+		<Author>Thomas Pynchon</Author>
+		<Name>Oedipa Maas</Name>
+		<Description>Suburban Housewife</Description>
+		<Paragraph>Suburban housewife, husband of Wendell Mucho Maas, former partner of Pierce Inverarity
+Is deeply sensitive to the constructed world and has a deep insight into the forces building California
+		
+</Paragraph>
+		<Tag>Protagonist</Tag><Tag>Paranoid</Tag><Tag>Woman</Tag><Tag>rightwing</Tag><Tag>Driver</Tag><Tag>Sober</Tag><Link LT="Partner" BTWN="Pierce Inverarity" /></character>
+	<character ID="00002" x="371" y="468" szx="146" szy="36">
+		<Source>The Crying of Lot 49</Source>
+		<Author>Thomas Pynchon</Author>
+		<Name>Pierce Inverarity</Name>
+		<Description>A wealthy businessman</Description>
+		<Paragraph>An eccentric, wealth businessman and a man of many voices
+
+</Paragraph>
+	<Tag>Dead</Tag><Tag>Rich</Tag><Link LT="Business" BTWN="San Narciso" /></character>
+<character ID="00003" x="358" y="835" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Winthrop Tremaine</Name><Tag>rightwing</Tag><Link LT="Business" BTWN="Pierce Inverarity" /><Description>Military Surplus Store Owner</Description><Paragraph>Military surplus store owner with a penchant for collecting right wing memorbilia
+</Paragraph></character><character ID="00004" x="348" y="204" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Anthony Giunghierrace</Name><Description>Cosa Nostra Member</Description><Paragraph>Alias Tony Jaguary
+Member of the Cosa Nostra, corporal in an Italian force attached to the Germans at Lago di Piet&#224;
+Allegedly supplied bones to Beaconsfield Cigarrettes
+Employs Manny Di Presso
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Lago di Piet&#224;" /></character><character ID="00005" x="28" y="86" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>C. Morris Schrift</Name><Tag /><Description>Collector's Agent</Description><Paragraph>Agent of the unknown book bidder
+Bidding on Pierce Inverarity's stamp collection as auctioned by Genghis Cohen
+</Paragraph></character><character ID="00006" x="1202" y="254" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Caesar Funch</Name><Tag /><Description>Program Director at Mucho's Radio Station</Description><Paragraph>Thinks Wendell Mucho Maas is too horny and censors him
+</Paragraph></character><character ID="00007" x="1068" y="422" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Dr. Hilarius</Name><Description>Psychiatrist for Oedipa Maas</Description><Paragraph>Former Nazi concentration camp scientist at Buchenwald
+Works with a community hospital to test the effects of LSD-25, mescaline, psilocybin on suburban housewives
+Speaks with an accent very much like Inverarity&#8217;s Gestapo Officer voice
+Makes faces to alter the mental state of his patients
+Capable of making a face which drives anyone who sees it hopelessly insane (p.111)
+
+</Paragraph><Tag>Paperclip</Tag><Link LT="Business" BTWN="Oedipa Maas" /></character><character ID="00008" x="791" y="485" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Emory Bortz</Name><Description>Professor of Jacobean Revenge Plays</Description><Paragraph>Tells Oedipa Maas about the history and various versions of The Courier's Tragedy
+Teacher at San Narciso College
+</Paragraph><Tag /><Link LT="Location" BTWN="San Narciso" /></character><character ID="00009" x="1075" y="486" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Genghis Cohen</Name><Description>Philatelist</Description><Paragraph>Collector of stamps who appraises Pierce Inverarity's stamp collection
+Drinker of dandelion wine who believes they can still sense the seasons
+Wears a Barry Goldwater shirt
+Hired on the advice of Pierce Inverarity
+Discourages Oedipa from telling others about the postal frauds, reminds her that the government cannot help. (p.79)
+
+</Paragraph><Tag>rightwing</Tag><Link LT="Business" BTWN="Oedipa Maas" /><Link LT="Locatino" BTWN="East San Narciso Freeway" /></character><character ID="00010" x="1262" y="431" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Helga Blamm</Name><Tag>Woman</Tag><Link LT="Business" BTWN="Dr. Hilarius" /><Description>Assistant to Dr. Hilarius</Description><Paragraph>Assistant to Dr. Hilarius, helps Oedipa Maas when she finds him in a crisis
+</Paragraph></character><character ID="00011" x="830" y="259" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Jes&#250;s Arrabal</Name><Description>Member of the other CIA</Description><Paragraph>Met Oedipa Maas in Mazatl&#225;n
+Helps run a small cafe in SF
+
+</Paragraph><Tag>leftwing</Tag><Link LT="Friend" BTWN="Oedipa Maas" /></character><character ID="00012" x="265" y="724" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>John Nefastis</Name><Tag /><Description>Designer in Berkeley</Description><Paragraph>Listed among U.S. mailboxes and in the phonebook
+User of the W.A.S.T.E. system
+Designer of a machine that purports to capture Maxwell's Demon
+Tries to seduce Oedipa Maas after inviting her to try the machine
+</Paragraph></character><character ID="00013" x="632" y="394" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Loren Passerine</Name><Description>Auctioneer in San Narciso</Description><Paragraph>Auctioneer in San Narciso, where the auction is held in the oldest building in town.
+
+</Paragraph><Tag /><Link LT="Location" BTWN="San Narciso" /></character><character ID="00014" x="414" y="127" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Manny Di Presso</Name><Description>Cosa Nostra Attorney</Description><Paragraph>Actor and Lawyer friend of Metzger
+Attorney for Tony Jaguar
+
+
+</Paragraph><Tag>Attorney</Tag><Link LT="Business" BTWN="Anthony Giunghierrace" /><Link LT="Friend" BTWN="Metzger" /></character><character ID="00015" x="264" y="579" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Member of the IA</Name><Description>Member of the Inamorato Anonymous</Description><Paragraph>Tells Oedipa Maas at a gay bar in S.F. how a Yoyodyne executive came to detach himself from all sources of love.
+
+</Paragraph><Tag /><Link LT="Friend" BTWN="Oedipa Maas" /></character><character ID="00016" x="670" y="249" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Metzger</Name><Description>Co-Executor of Pierce Inverarity's Will</Description><Paragraph>Runs off with one of the girls from the Paranoids
+Former child actor - *Cashiered*
+Very handsome
+35 years old
+You know what mothers like to turn their male children into (p.18)
+Wears a sharkskin suit (p.25)
+
+
+</Paragraph><Tag>Attorney</Tag><Link LT="Partner" BTWN="Oedipa Maas" /><Link LT="Attorney" BTWN="Pierce Inverarity" /></character><character ID="00017" x="536" y="836" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Mike Fallopian</Name><Description>Member of the Peter Penguid Society</Description><Paragraph>Meets Oedipa Maas and Metzger at The Scope
+Writing a history of private mail delivery in the U.S. and interested in the federal government&#8217;s suppression of private mail service
+Interested in the "Postal Reform Movement" that began around 1845 and the government's suppresion in 1961, coinciding with the U.S. civil war - parallel to the death of the Faggian Guard
+Purchases clothing and supplies for himself from Winthrop Tremaine 
+
+
+</Paragraph><Tag>rightwing</Tag><Link LT="Business" BTWN="Winthrop Tremaine" /><Link LT="Visits" BTWN="The Scope" /></character><character ID="00018" x="771" y="818" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Miles</Name><Tag /><Description>Manager at Echo Courts</Description><Paragraph>In a British Invasion Band called the Paranoids
+16 years old
+</Paragraph></character><character ID="00019" x="482" y="276" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Mr. Thoth</Name><Description>Old man in Verspaven House</Description><Paragraph>91 year old man visited by Oedipa Maas in Verspaven House
+Mr. Thoth&#8217;s grandfather, who rode for the Pony Express on a horse named Adolf
+Presumably he had a personal horse?
+The cruel old man &#8220;was an Indian killer&#8221;
+The old man said that the Indians who weren&#8217;t Indians were supposed to burn bones to turn their feathers black and make themselves invisible in the night.
+He cut a signet ring from one of their fingers bearing the sign of the post horn with the mute
+Says that &#8220;the anarchist is dressed in all black. In the dark you can only see his eyes&#8221;
+
+</Paragraph><Tag /><Link LT="Location" BTWN="Verspaven House" /></character><character ID="00020" x="1036" y="661" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Randolph Driblette</Name><Description>Director of The Courier's Tragedy</Description><Paragraph>Director of The Courier's Tragedy, owner of the Tank Theatre
+Points Oedipa Maas towards Zapf's Used Books
+Tragically kills himself by walking into the ocean
+"But the reality is in this head. Mine. I'm the projector at the planetarium, all the closed little universe visible in the circle of that stage is coming out of my mouth, eyes, somtimes other orifices also."
+
+</Paragraph><Tag /><Link LT="Business" BTWN="The Tank Theatre" /></character><character ID="00021" x="1039" y="817" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Richard Wharfinger</Name><Tag /><Description>Author of The Courier's Tragedy</Description><Paragraph>16th Century Playright and the author of The Courier's Tragedy
+Not a fan of Puritans
+</Paragraph></character><character ID="00022" x="1031" y="308" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Roseman</Name><Description>Attorney for Oedipa and Wendell Mucho Maas</Description><Paragraph>Hits on Oedipa and asks her to run away with him
+Goes to group therapy with Oedipa, along with a photographer from Palo Alto who thinks he is a volleyball
+Obsessed with and hater of Perry Mason
+Writing a screenplay as an indictment of the actor who plays a lawyer
+
+</Paragraph><Tag>Attorney</Tag><Link LT="Business" BTWN="Oedipa Maas" /></character><character ID="00023" x="450" y="771" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Stanley Koteks</Name><Description>Engineer at Yoyodyne, Inc.</Description><Paragraph>This stifles your really creative engineer, wherever he may be
+Talks to Oedipa Maas and keys her onto the usefulness of the W.A.S.T.E. system
+Points her to John Nefastis, who will tell her if she is a sensitive, one who can compell Maxwell's Demon to do intellectual work for her.
+Courtesy of Reddit - strong comparison between the work of Stanley Koteks and Maxwell's demon, who only do "intellectual/entropic" work
+
+
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Yoyodyne, Inc." /><Link LT="Friend" BTWN="John Nefastis" /></character><character ID="00024" x="1194" y="336" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Wendell Mucho Maas</Name><Description>Husband of Oedipa Maas</Description><Paragraph>Former used car salesman
+Radio DJ
+Experiences LSD through Dr. Hilarius' program and is transformed from a sensitive, sad man to a visionary who sees the world as one thing made up of distinct parts.
+Disc jockey for KCUF
+</Paragraph><Tag /><Link LT="Marriage" BTWN="Oedipa Maas" /><Link LT="Employment" BTWN="Caesar Funch" /><Link LT="Business" BTWN="Dr. Hilarius" /></character><location ID="00025" x="198" y="77" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Bay Area</Name><Tag /><Description>Greater San Francisco Area</Description><Paragraph>And the image of the post horn all but saturating the Bay Area. (p.107)
+</Paragraph></location><location ID="00026" x="772" y="723" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Echo Courts</Name><Description>Motel in San Narciso</Description><Paragraph>Motel in San Narciso where Oedipa Maas stays and meets Metzger
+Echo, a nymph with a public smile, is the mascot
+Home of the Paranoids and Miles, the manager
+
+</Paragraph><Tag /><Link LT="Location" BTWN="San Narciso" /><Link LT="Business" BTWN="Miles" /></location><location ID="00027" x="89" y="519" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Fangoso Lagoons</Name><Tag /><Link LT="Business" BTWN="Pierce Inverarity" /><Description>Housing Development owned by Pierce Inverarity</Description><Paragraph>With real skeletons from Lago di Piet&#224; , Italy as a diving attraction!
+Employs the Fangoso Lagoons Security Force, made up of &#8220;one-time cowboy actors and L.A. motorcycle cops&#8221;
+The sight of a battle between Wells, Fargo postal riders and masked marauders whose victims left the symbol of a cross in the dust
+</Paragraph></location><location ID="00028" x="467" y="544" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Hogan's Seraglio</Name><Description>Turkish Bath in San Narciso</Description><Paragraph>Turkish Bath in downtown San Narciso
+Owned by Pierce Inverarity
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Pierce Inverarity" /><Link LT="Location" BTWN="San Narciso" /></location><location ID="00029" x="49" y="357" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Lago di Piet&#224;</Name><Description>Lake in the Tyrrhenian Coast</Description><Paragraph>Lake in the Tyrrhenian Coast where hundreds of GIs were killed
+Tony Jaguar was present as a corporal on the Italian side
+Allegedly a source for bones in Beaconsfield Cigarrettes and the Fangoso Lagoons
+
+</Paragraph><Tag /><Link LT="History" BTWN="Fangoso Lagoons" /><Link LT="History" BTWN="Beaconsfield Cigarettes" /></location><location ID="00030" x="633" y="544" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>San Narciso</Name><Tag /><Description>Town in California north of L.A.</Description><Paragraph>Town in which Pierce Inverarity owns a many businesses and investments
+One of the central locations of the story
+</Paragraph></location><location ID="00031" x="609" y="766" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>The Scope</Name><Tag /><Description>Bar frequented by Yoyodyne, Inc. employees</Description><Paragraph>Oscilloscope themed bar frequented by the electronics assembly employees of the Galactronics division of Yoyodyne, Inc.
+Contains a message in the ladies john to use the W.A.S.T.E. network
+</Paragraph></location><location ID="00032" x="1035" y="604" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>The Tank Theatre</Name><Description>Home of the Tank Players</Description><Paragraph>Home of the Tank Players and Randolph Driblette
+Theatre where Oedipa Maas and Metzger go to see the Courier's Tragedy
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Oedipa Maas" /></location><location ID="00033" x="402" y="362" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Verspaven House</Name><Description>Retirement Home</Description><Paragraph>Retirement home and residence of Mr. Thoth
+Put up by Pierce Inverarity about when Yoyodyne, Inc. came to San Narciso
+Oedipa Maas visits here and listens to his grandfather's stories about men who robbed couriers
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Pierce Inverarity" /><Link LT="Location" BTWN="San Narciso" /></location><location ID="00034" x="132" y="444" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Zapf's Used Books</Name><Tag /><Link LT="Business" BTWN="Pierce Inverarity" /><Description>Used Bookstore in San Narciso</Description><Paragraph>Bookstore by the freeway in San Narciso
+Sells Oedipa Maas a copy of the anthology of Jacobean revenge plays including a vulgar version of the Courier's tragedy.
+Owned by Pierce Inverarity
+</Paragraph></location><location ID="00035" x="1029" y="132" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Kinneret-Among-The-Pines</Name><Tag /><Link LT="Residence" BTWN="Oedipa Maas" /><Description>Oedipa Maas and Wendell Mucho Maas's Town</Description><Paragraph>Town where Oedipa and Wendell Mucho Maas live
+</Paragraph></location><organization ID="00036" x="220" y="358" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Beaconsfield Cigarettes</Name><Description>Cigarette Company</Description><Paragraph>Cigarette Company 51% owned by Pierce Inverarity
+Uses real bone in its cigarette filters
+Bones sourced from Lago di Piet&#225;
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Pierce Inverarity" /><Link LT="Business" BTWN="Cosa Nostra" /></organization><organization ID="00037" x="862" y="102" szx="146" szy="66"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Conjuraci&#243;n de los Insurgentes Anarquistas</Name><Tag /><Link LT="Member" BTWN="Jes&#250;s Arrabal" /><Description>Mexican Anarchists</Description><Paragraph>Organization of Mexican Anarchists, from the time of the Flores Mag&#243;n brothers and Zapata
+Their magazines, Regeneraci&#243;n, are marked with the post horn
+</Paragraph></organization><organization ID="00038" x="286" y="288" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Cosa Nostra</Name><Tag /><Link LT="Member" BTWN="Anthony Giunghierrace" /><Description>Italian American Mafia</Description><Paragraph>Involved with the stabilization and peace after WWII in Italy
+Looted and processed bones from Lago di Piet&#225;
+Stiffed by Pierce Inverarity's subsidiary cigarette filter company
+</Paragraph></organization><organization ID="00039" x="75" y="619" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Inamorato Anonymous</Name><Tag /><Link LT="Member" BTWN="Member of the IA" /><Description>Organization of those who renounce love</Description><Paragraph>Their members wear the symbol of the post horn (does it have the mute?)
+The organization was founded by a disgraced executive from Yoyodyne, Inc.
+</Paragraph></organization><organization ID="00040" x="496" y="905" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Peter Penguid Society</Name><Description>Right Wing Organization of Lost-Causers</Description><Paragraph>Named for the commanding officer of the Confederate Man-o-war the *Disgruntled* which sailed around the Cape Horn to attack San Fransisco and open up a second front in the Civil War
+After arriving as the sole member, the Disgruntled was fired upon by Admiral Popov of Czar Nicholas II&#8217;s Pacific Fleet
+Peter Penguid resigned his commission and spent the rest of his days amassing wealth as real-estate speculator in L.A. disgusted by all forms of industrial society.
+Mike Fallopian is a member
+&#8220;Lincoln and the Czar forced him to.&#8221; (p.37) (JFK and Kruschev?)
+The PPS has members in San Narciso, Washington, and Dallas
+Opposed to the government&#8217;s mail service, members use corporate mail services begrudgingly
+
+</Paragraph><Tag>rightwing</Tag><Tag>thebayofpigsthing</Tag><Link LT="Member" BTWN="Mike Fallopian" /></organization><organization ID="00041" x="1096" y="715" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>The Courier's Tragedy</Name><Tag>thebayofpigsthing</Tag><Link LT="Artist" BTWN="Richard Wharfinger" /><Link LT="Artist" BTWN="Randolph Driblette" /><Description>Jacobean Revenge Play about a Lost Guard</Description><Paragraph>&#8220;You know, blokes, this all has a most bizarre resemblance to that ill, ill Jacobean revenge play we went to last week.&#8221;
+Plot
+&#8220;But not by his own men.&#8221; (p.55)
+&#8220;Certain events will not be shown onstage; though it is difficult to imagine, given the excesses of the preceding acts, what these things could possibly be.&#8221; (p.55)
+Characters:
+- Angelo (p.49)
+    - Evil Duke of Squamuglia
+    - Has murdered the good Duke of Faggio by poisoning the feet of a statue of Saint Narcissus, Bishop of Jerusalem
+- Duke of Faggio
+- Pasquale
+    - Illegitimate son of Fransesca and the Duke of Faggio
+    - The oedipal character - his birth causes the death of his father and eventually he is promised as a husband to his mother
+- Niccol&#242;
+    - The good son
+    - Stops to rest near the lake where the Faggian guard disappeared
+- Ercole
+    - Hides Niccol&#242; away from the cannon used to kill a goat in his stead
+- Domenico
+- Thurn and Thaxis
+    - Employs young Niccol&#242;
+    - Hold a postal monopoly over the Holy Roman Empire
+        - Clear parallel of the federal government as a whole
+    - Have lower rates and faster service than the alternative
+    - Have the symbol of the post horn
+    - Later on, potentially enters into an alliance with its counterpart to control licit and illicit business
+- Three Figures
+- Francesca
+    - Sister to Angelo, mother to Pasquale
+    - A source of trauma - the Duke of Faggio is poisoned for their illicit relationship
+    - Has an incestuous relationship with Angelo
+- Vittorio
+    - A courier with Niccol&#242;
+- Gennaro
+    - &#8220;A complete nonentity&#8221;
+    - Head of the state after the death of Pasquale
+- The Lost Guard
+    - Fifty young soldiers of Faggio who vanished without a trace while manouevering on the borders of Squamuglia before the poisoning of the good Duke
+</Paragraph></organization><organization ID="00042" x="318" y="922" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>The John Birch Society</Name><Description>Organization of Right Wingers</Description><Paragraph>Far-right anti-communist, segregationist cranks who are well to the left of the Peter Penguid Society
+Edwin A. Walker, a U.S. general, was prominent member. (He was allegedly shot at by LHO in 1963)
+This allusion demonstrates the thesis of the book well - the Peter Penguid Society's aims are not served by the Birchers, who still believe in national government. They believe in a society with postal services outside the government and above the law.
+
+</Paragraph><Tag>rightwing</Tag><Tag>IRL</Tag><Link LT="Ideology" BTWN="Peter Penguid Society" /></organization><organization ID="00043" x="883" y="771" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>The Paranoids</Name><Tag /><Link LT="Location" BTWN="Echo Courts" /><Link LT="Member" BTWN="Miles" /><Description>British Invasion Copycat Band</Description><Paragraph>British Invasion Copycat Band that plays at Echo Courts
+Miles is the lead member
+3 guitarists
+Dean
+Serge - has long hair
+Leonard
+</Paragraph></organization><organization ID="00044" x="31" y="21" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>they</Name><Tag>thebomb</Tag><Description>The "they"  and "them" in paranoid use</Description><Paragraph>The governmental other
+
+- &#8220;So they make misprints, let them. As long as they are careful about not pressing the wrong button.&#8221; (p.33)
+- &#8220;They accuse us of being paranoids.&#8221; (p.35)
+- &#8220;*Their* Revolution.&#8221; (p.97) - In the context of the C.I.A.&#8217;s (Mexican anarchist collective) aims
+- they are stripping from me,&#8230; they are stripping away, one by one, my men (p.125)
+- &#8220;where they are no doubt at present rendering their services to those who seek to extinguish the flame of Revolution&#8221; (p.143)
+</Paragraph></organization><organization ID="00045" x="1534" y="845" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Trans World Airlines</Name><Description>Airline carrying passengers and mail</Description><Paragraph>Airline of Howard Hughes
+Fly Trans World Airlines to Miami and write via W.A.S.T.E. (p.100)
+Involved in the Air Mail Scandal
+- Large airlines conspired with the government to eliminate smaller players
+- FDR instructed the Air Corp to deliver all mail, temporarily relieving the airlines of their roles
+- 13 airmen died due to poor preparation and inclement weather
+- Prior to this, small airlines abused subsidies and flew outrageous amounts of junk mail to rake in money from the government.
+- TWA retained it&#8217;s Contract Air Mail Route 34 through the scandal, until all operations were paused by FDR
+
+</Paragraph><Tag>IRL</Tag><Link LT="History" BTWN="Thurn and Thaxis" /></organization><organization ID="00046" x="85" y="713" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>W.A.S.T.E.</Name><Tag /><Link LT="Member" BTWN="John Nefastis" /><Description>Mailing Network outside the USG</Description><Paragraph>Modern-day mailing network consisting of drop boxes, letter carriers, and reactionary recipients
+</Paragraph></organization><organization ID="00047" x="470" y="705" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Yoyodyne, Inc.</Name><Tag /><Link LT="Business" BTWN="Pierce Inverarity" /><Link LT="Location" BTWN="San Narciso" /><Description>Missile Supplier in San Narciso</Description><Paragraph>The Galactronics Division of Yoyodyne is located in pink buildings in San Narciso
+</Paragraph></organization><character ID="00048" x="1203" y="851" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Duke Angelo</Name><Description>Evil Duke of Squamuglia</Description><Paragraph>Has murdered the good Duke of Faggio by poisoning the feet of a statue of Saint Narcissus, Bishop of Jerusalem
+
+</Paragraph><Tag>thecourierstragedy</Tag><Link LT="Antagonist" BTWN="The Courier's Tragedy" /></character><character ID="00049" x="1285" y="740" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Duke of Faggio</Name><Tag>thecourierstragedy</Tag><Description>Duke of Faggio</Description><Paragraph>Poisoned by the Evil Duke Angelo
+Devoted to Saint Narcissus
+
+His devotion to the Saint leads to his downfall as he cannot reflect on the risks presented by Angelo
+</Paragraph></character><character ID="00050" x="1360" y="912" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Pasquale</Name><Description>Illegitimate Son of the Duke of Faggio and Francesca</Description><Paragraph>Illegitimate son of Fransesca and the Duke of Faggio
+The oedipal character - his birth causes the death of his father and eventually he is promised as a husband to his mother
+
+</Paragraph><Tag>thecourierstragedy</Tag><Link LT="Family" BTWN="Duke of Faggio" /><Link LT="Family" BTWN="Francesca" /></character><character ID="00051" x="1273" y="802" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Niccol&#242;</Name><Description>Son of the Duke of Faggio</Description><Paragraph>The Good Duke's son who is hidden by Ercole after his father is killed.
+He waits in the court of Angelo, pretending to be a courier for Thurn and Thaxis
+
+</Paragraph><Tag>thecourierstragedy</Tag><Link LT="Protagonist" BTWN="The Courier's Tragedy" /><Link LT="Family" BTWN="Duke of Faggio" /></character><character ID="00052" x="1202" y="604" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Ercole</Name><Description>Courtesan of the Duke of Faggio</Description><Paragraph>Hides Niccol&#242; away from the cannon used to kill a goat in his stead
+
+</Paragraph><Tag>thecourierstragedy</Tag><Link LT="Business" BTWN="Duke of Faggio" /></character><organization ID="00053" x="1363" y="851" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Thurn and Thaxis</Name><Description>Mail Carrier for the Holy Roman Empire</Description><Paragraph>Employs young Niccol&#242;
+Hold a postal monopoly over the Holy Roman Empire
+Clear parallel of the federal government as a whole
+Have lower rates and faster service than the alternative
+Have the symbol of the post horn
+Later on, potentially enters into an alliance with its counterpart to control licit and illicit business
+Eventually becomes the state mail service of Germany under Bismark
+
+</Paragraph><Tag>thecourierstragedy</Tag><Link LT="Business" BTWN="Duke Angelo" /><Link LT="Business" BTWN="Niccol&#242;" /></organization><character ID="00054" x="1202" y="913" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Francesca</Name><Description>Sister of Evil Duke Angelo</Description><Paragraph>Sister to Angelo, mother to Pasquale
+A source of trauma - the Duke of Faggio is poisoned for their illicit relationship
+Has an incestuous relationship with Angelo
+
+</Paragraph><Tag>thecourierstragedy</Tag><Link LT="Family" BTWN="Duke Angelo" /></character><character ID="00055" x="1275" y="681" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>The Lost Guard</Name><Description>Fifty Young Soldiers</Description><Paragraph>Fifty young soldiers of Faggio who vanished without a trace while manouevering on the borders of Squamuglia before the poisoning of the good Duke
+
+After their death, the good Duke of Faggio is poisoned. Did the soldiers have air cover?
+</Paragraph><Tag>thecourierstragedy</Tag><Tag>thebayofpigsthing</Tag><Link LT="Character" BTWN="The Courier's Tragedy" /></character><themes ID="00056" x="200" y="200" szx="16" szy="3"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>themes</Name><Tag>theme</Tag><Description>Overall themes and ideas</Description><Paragraph>Courtesy of MSJ - the Oedipal Trauma
+There are two examples of an unspeakable trauma in The Crying of Lot 49 - the death of Niccol&#243; and the unmentioned death of J.F.K.
+There is also a literal trauma - Pasquale, illegitmate child of Francesca and the Duke of Faggio, ends up promised to his mother in marriage after causing his father to be killed because of Angelo's jealousy
+Contrast between the train and the car
+Oedipa often thinks about events in her life as those they are on rails and proceeding through a rail yard, their path predetermined by switches set by a pointsman. On other occasions, when she is searching for answers or confused, she is depicted in a car, free to take any exit available to her but bound to the roadway.
+Structure of the built environment
+Oedipa begins to see patterns in the suburban landscape similar to the lines on a printed circuit board, a major export of the Southern Californian industry. She also begins to imagine her world as a figment of someone's imagination, with all its unlikely links and coincidences
+</Paragraph></themes><character ID="00057" x="265" y="658" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Founder, IA</Name><Description>Former Yoyodyne, Inc. Executive</Description><Paragraph>A Yoyodyne, Inc. executive automated out of a job in the early 60s' at age 39.
+Considers suicide after believing he has lost his purpose
+Attempts to do the "Buddhist Monk Thing" and self-immolate, but is stopped by his wife and the efficiency expert who automated him out of a job. (p.93)
+
+</Paragraph><Tag /><Link LT="Member" BTWN="W.A.S.T.E." /><Link LT="Member" BTWN="Inamorato Anonymous" /><Link LT="Business" BTWN="Yoyodyne, Inc." /></character><character ID="00058" x="636" y="673" szx="146" szy="36"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>Clayton Chiclitz</Name><Tag /><Link LT="Business" BTWN="Yoyodyne, Inc." /><Description>President of Yoyodyne, Inc.</Description><Paragraph>Likes to sing songs at stockholder's meetings
+</Paragraph></character><location ID="00059" x="832" y="560" szx="146" szy="51"><Source>The Crying of Lot 49</Source><Author>Thomas Pynchon</Author><Name>East San Narciso Freeway</Name><Tag /><Link LT="Location" BTWN="San Narciso" /><Description>Freeway east of San Narciso</Description><Paragraph>Freeway run through the old cemetary, destroying dandelions and disturbing bones
+</Paragraph></location></Note>

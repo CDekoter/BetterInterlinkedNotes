@@ -1,0 +1,216 @@
+<Note n="00148">
+<character ID="00060" x="528" y="680" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>John Fitzgerald Kennedy</Name><Description>35th President of the United States of America</Description><Paragraph>President of the United States of America, assassinated by gunshot on November 22, 1963
+
+
+</Paragraph><Tag>democrat</Tag><Tag>60s</Tag></character><location ID="00061" x="639" y="843" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Dallas</Name><Tag>oil</Tag><Tag>rightwing</Tag><Description>City in Texas</Description><Paragraph>Dallas was already known to the nation and to the world as a center of intense right wing activity (p.xxiii)
+</Paragraph></location><organization ID="00062" x="118" y="784" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>FBI</Name><Description>Federal Bureau of Investigation</Description><Paragraph>Federal law enforcement agency with a rightward bent
+
+Interviewed LHO after he returned from Russia, made themselves available to him during his stint in New Orleans.
+</Paragraph><Tag>rightwing</Tag><Link LT="Surveillance" BTWN="Lee Harvey Oswald" /></organization><organization ID="00063" x="508" y="371" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>CIA</Name><Tag>rightwing</Tag><Description>Central Intelligence Agency</Description><Paragraph>Federal intelligence agency with a mandate to operate outside the United States.
+</Paragraph></organization><organization ID="00064" x="782" y="696" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Secret Service</Name><Description>The President's Security Detail</Description><Paragraph>Organization tasked with safeguarding the president and those in the U.S. Government.
+
+</Paragraph><Tag /><Link LT="Business" BTWN="John Fitzgerald Kennedy" /></organization><character ID="00065" x="1098" y="274" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Lyndon Baines Johnson</Name><Description>36th President of the United States</Description><Paragraph>
+
+
+</Paragraph><Tag>democrat</Tag><Tag>IRL</Tag><Tag>60s</Tag><Link LT="Succeeded" BTWN="John Fitzgerald Kennedy" /></character><character ID="00065" x="1098" y="274" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Lyndon Baines Johnson</Name><Tag>democrat</Tag><Tag>IRL</Tag><Link LT="Succeeded" BTWN="John Fitzgerald Kennedy" /><Description>President of the United States</Description><Paragraph>
+</Paragraph></character><character ID="00066" x="332" y="701" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Lee Harvey Oswald</Name><Description>Marine, Communist, Assassin</Description><Paragraph>Alleged communist sympathizer who was implicated in the Kennedy assasination
+Born in New Orleans on October 18th, 1939. (24 y.o.). Placed in an orphanage when he was three. Moved back in with his mother at 4, then bounced around the country as she got married and divorced.
+Joined the United States Marine Corps in October 24th, 1956. Scored acceptably well on a marksmanship exam, trained in aviation fundamentals and radar scanning. At this time, he began to become interested in communism and wrote to several organizations, praising their cause.
+After being discharged from the Marine Corps in September on account of his mother's ill health and the nearing end of his service, Oswald traveled to France, then to the U.S.S.R after visiting with his mother for only three days. He applied for Soviet citizenship but was denied. After this rejection, he allegedly attempted suicide, but was hospitalized. (I.A. - unlikely). He was granted a temporary worker's visa and moved to Minsk to work in a radio factory as an unskilled laborer. 
+
+'One of his favourite books was George Orwell's powerfully anti-totalitarian "1984"'.
+
+"Similarly, American officials helped Oswald and his Russian wife, Marina, when they wanted to come to the United States in 1962, because they thought it better for this country to bring a defector back." (p.xxxiii)
+Forged a smallpox vaccination record with the name Dr. A.J. Hideel. As alleged by Marina, Hideel, Hidell, or other variations are an allusion to Fidel Castro's name.
+In Russia, Oswald used the nickname 'Alek'.
+On November 22, multiple people saw Oswald carrying a paper bag, but cannot agree to the length of the bag. There is considerable confusion as to the manner in which he held the bag. The stock of the rifle is 38" long, representing the mininum length of the bag, but multiple people claim he held it alongside his right arm and it did not reach above his shoulder. In comparing the packaged carried on the 22nd to the width it occupied in the back of his car, a witness showed that it was only 28" long. (p.126) The commission report glosses over this.
+Fingerprint analysis showed that Oswald did not wear gloves while handling the bag or the rifle.
+"Everybody will know who I am now." (p.151)
+
+
+
+</Paragraph><Tag>60s</Tag><Link LT="Killed" BTWN="John Fitzgerald Kennedy" /><Link LT="Killed" BTWN="J.D. Tippit" /><Link LT="Employee" BTWN="Texas School Book Depository Building" /><Link LT="Member" BTWN="Youth House" /><Link LT="Member" BTWN="United States Marine Corps" /><Link LT="Attacked" BTWN="Edwin A. Walker" /><Link LT="Member" BTWN="Fair Play for Cuba Committee" /></character><character ID="00067" x="384" y="37" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Leon F. Czolgosz</Name><Description>Assassin of President McKinley</Description><Paragraph>Professed Anarchist
+
+</Paragraph><Tag>leftwing</Tag></character><character ID="00068" x="413" y="107" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Earl Warren</Name><Description>Chief Justice Earl Warren</Description><Paragraph>Lead member of the Warren Commission to investigate the assassination of President Kennedy
+
+
+</Paragraph><Tag>RWC</Tag><Link LT="Member" BTWN="The Warren Commission" /></character><character ID="00069" x="103" y="663" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Jack Ruby</Name><Description>Underworld nightclub owner</Description><Paragraph>Underworld nightclub owner who killed Lee Harvey Oswald after he was detained. Later died in prison.
+52 years old in 1963. 
+
+Claimed that he had killed Oswald in a fit of rage and was not connected to a larger conspiracy to kill the president.
+
+</Paragraph><Tag>60s</Tag><Link LT="Killed" BTWN="Lee Harvey Oswald" /></character><organization ID="00070" x="347" y="214" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>The Warren Commission</Name><Description>Commission to Investigate the Assassination</Description><Paragraph>Chief Justice Earl Warren (R)
+Senator Richard B. Russell of Georgia (D)
+Senator John Sherman Cooper of Kentucky (R)
+Representative Hale Boggs of Louisiana (D)
+Representative Gerald R. Ford of Michigan (R)
+Allen W. Dulles (R)
+John J. McCloy (R)
+
+</Paragraph><Tag>RWC</Tag></organization><character ID="00071" x="302" y="603" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>J.D. Tippit</Name><Tag /><Description>Dallas Patrolman Shot by Oswald</Description><Paragraph>Dallas Patrolman Shot by Oswald after the assassination
+</Paragraph></character><character ID="00072" x="228" y="132" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>John J. McCloy</Name><Description>Republican Lawyer</Description><Paragraph>Former president of the International Bank for Reconstruction and Development
+Former U.S. High Commissioner for Germany
+Former Assistant Secretary of War during WWII.
+
+</Paragraph><Tag>republican</Tag><Tag>RWC</Tag><Link LT="Member" BTWN="The Warren Commission" /></character><location ID="00073" x="456" y="779" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Texas School Book Depository Building</Name><Description>Building along the motorcade route</Description><Paragraph>6 story building along the motorcade route where Lee Harvey Oswald started work on October 16th, 1963
+
+
+</Paragraph><Tag>Dallas</Tag><Tag>60s</Tag><Link LT="Location" BTWN="Dallas" /></location><organization ID="00074" x="118" y="835" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Youth House</Name><Tag /><Description>Psychiatric Organization in New York</Description><Paragraph>Pyschiatric organization in New York for juveniles who are truant or in trouble with the law.
+
+
+</Paragraph></organization><organization ID="00075" x="120" y="730" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>United States Marine Corps</Name><Tag /><Description>United States Military Force</Description><Paragraph>U.S. military force with a mission to protect shipping, enforce international trade laws, and uphold the "rules based international order"
+</Paragraph></organization><character ID="00076" x="289" y="934" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Marina Nikolaevna Prusakova</Name><Description>Russian wife of Lee Harvey Oswald</Description><Paragraph>A pharmacist in Minsk.
+Married to Oswald on April 30, 1961 at age 19.
+
+Moved with Oswald to Fort Worth, Texas with the help of a loan from the department of state.
+
+
+</Paragraph><Tag>woman</Tag><Tag>60s</Tag><Link LT="Partner" BTWN="Lee Harvey Oswald" /></character><character ID="00077" x="449" y="892" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Ruth Paine</Name><Description>Friend of the Oswalds in Dallas</Description><Paragraph>Temporarily separated wife of . Befriended Marina Oswald as part of a Russian expat community in the Dallas Suburbs
+After Oswald was fired from his position working on coffee machinery in New Orleans, Ruth Paine helped him get a job at the Texas School Book Depository weeks before the shooting.
+While being interviewed hours after the shooting, she did not appear to know that LHO owned a rifle that he stored in her garage. 
+</Paragraph><Tag>woman</Tag><Link LT="Friend" BTWN="Marina Nikolaevna Prusakova" /><Link LT="Location" BTWN="Dallas" /><Link LT="Telephone" BTWN="Texas School Book Depository Building" /></character><character ID="00078" x="471" y="543" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Edwin A. Walker</Name><Description>Major General, resigned from the U.S. Army</Description><Paragraph>Nearly killed by LHO on April 6th, 1963
+Prominent member of the John Birch society who became a segregationist after being ordered to integrate schools in Little Rock, Arkansas. He would go on to lead deadly protests at the University of Missippi against the enrollment of a Black man, and attacks on Adlai Stevenson in Dallas.
+From his Wikipedia page: Walker, at age 66, was arrested one June 23, 1976 for fondling and propositioning a male undercover police officer in a public restroom in a Dallas park and charged with public lewdness. He was arrested again in Dallas for public lewdness on March 16, 1977. (...) He was never married and did not have any children.
+
+
+</Paragraph><Tag>RWC</Tag><Tag>50s</Tag><Tag>60s</Tag><Tag>70s</Tag><Link LT="Attacked" BTWN="Adlai E. Stevenson" /></character><organization ID="00079" x="296" y="520" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Fair Play for Cuba Committee</Name><Description>Organization dedicated to pro-Castro actions</Description><Paragraph>LHO created a fictitious New Orleans branch of the Committee in New Orleans, with a fake director ("A.J. Hidell"). As the sole member, he got into a street brawl while leafletting on August 9th, 1963.
+After being arrested for the scuffle, he was able to gain an audience with an FBI agent, presumably due to his recent immigration status. 
+LHO obtained a fake Selective Service I.D. card with the name Alek J. Hidell on it, and carried it around in his wallet up to the day of the shooting.
+
+
+
+</Paragraph><Tag>60s</Tag></organization><character ID="00080" x="806" y="794" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Jesse E. Curry</Name><Tag /><Link LT="Location" BTWN="Dallas" /><Link LT="Business" BTWN="Secret Service" /><Description>Dallas Chief of Police</Description><Paragraph>Chief of Police in Dallas (p.52) who assisted with the creation of the motorcade route.
+
+Assistant Chief of Police Charles Batchelor, Deputy Chief N.T. Fisher also assisted with the selection of the motorcade route.
+</Paragraph></character><character ID="00081" x="498" y="606" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Adlai E. Stevenson</Name><Tag>democrat</Tag><Link LT="Employee" BTWN="John Fitzgerald Kennedy" /><Description>U.S. Ambassador to the U.N. under Kennedy</Description><Paragraph>U.S. Ambassador to the U.N. under Kennedy who received a rough welcome to Dallas on October 24, 1963.
+
+No note of this treatment was made by the Protective Research Service of the Secret Service.
+</Paragraph></character><character ID="00082" x="819" y="943" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Abraham Zapruder</Name><Description>Amateur photographer who filmed the shooting</Description><Paragraph>Amateur photographer who filmed the shooting and the subsequent chaos. 
+
+</Paragraph><Tag>60s</Tag><Link LT="Location" BTWN="Dallas" /></character><organization ID="00083" x="151" y="287" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Edgewood Arsenal</Name><Description>U.S. Army Weapons Testing Facility in Maryland</Description><Paragraph>U.S. Army physical, chemical, and biological weapons testing facility in Maryland. Co-located with Fort Detrick?
+Validated the theory that Kennedy was struck from behind and above by a 6.5 mm bullet from Oswald's rifle buy testing on reconstructed human skulls.
+I wonder if they got them from that lake...
+
+</Paragraph><Tag>RWC</Tag><Link LT="Advised" BTWN="The Warren Commission" /></organization><character ID="00084" x="638" y="774" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Malcom Perry</Name><Description>Attendant surgeon at Parkland General Hospital</Description><Paragraph>Surgeon at Parkland General Hospital who treated Kennedy after the shooting. 
+Later, he gave a confusing press conference were he posited that the tracheal wound may have been an entrance wound, and that the large wound to the side of the President's head may have been caused by a bullet entering at the tracheal wound, hitting the spine, and bouncing out the side of the skull. 
+Detailed autopsy at the Bethseda hospital in D.C. allegedly disproved this theory. 
+</Paragraph><Tag /><Link LT="Business" BTWN="John Fitzgerald Kennedy" /><Link LT="Location" BTWN="Dallas" /></character><organization ID="00085" x="97" y="541" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Crescent Firearms, Inc.</Name><Tag /><Description>Firearms Importer and Wholesaler</Description><Paragraph>Importer of surplus Italian-made rifles. Sold the Mannlicher-Carcano rifle to Klein's Sporting Goods Company in Chicago, Illinois.
+</Paragraph></organization><organization ID="00086" x="98" y="600" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Klein's Sporting Goods Company</Name><Description>Sporting Goods Store in Chicago</Description><Paragraph>Sold the Carcano rifle, serial number C2766 to an A. Hidell in Dallas, Texas at P.O. box 2951 on March 20, 1963.
+Handwriting analysis shows that Oswald filled out the purchase form for the rifle. (p.114)
+
+</Paragraph><Tag /><Link LT="Business" BTWN="Crescent Firearms, Inc." /><Link LT="Business" BTWN="Lee Harvey Oswald" /></organization><organization ID="00087" x="85" y="174" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>The Worker</Name><Description>Left-wing Newspaper displayed by Oswald</Description><Paragraph>Left-wing newspaper displayed by Oswald in photos taken by Marina. He displays the Carcano rifle, a revolver, and two newspapers.
+
+In August of 1962, Oswald subscribed to the Worker, a publication of the Communist Party, U.S.A. (https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html)
+</Paragraph><Tag>leftwing</Tag></organization><organization ID="00088" x="85" y="232" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>The Militant</Name><Description>Left-wing Newspaper displayed by Oswald</Description><Paragraph>Another left-wing newspaper pictured alongside "The Worker"
+
+Since Nov. 15, 1928, the Militant has been &#8220;a socialist newsweekly published in the interests of working people,&#8221; as its masthead says. It reflects the program, perspectives and activities of the Socialist Workers Party in the United States. (https://themilitant.com/about/)
+</Paragraph><Tag /><Link LT="Link" BTWN="The Worker" /></organization><character ID="00089" x="449" y="948" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Michael Paine</Name><Tag /><Link LT="Partner" BTWN="Ruth Paine" /><Description>Husband of Ruth Paine</Description><Paragraph>Husband of Ruth Paine while they were living in Irving, Texas.
+</Paragraph></character><character ID="00090" x="1147" y="62" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Robert D. Craig</Name><Tag /><Description>Deputy Sheriff of Dallas County</Description><Paragraph>Craig testified that he saw a man, who he later identified as Oswald, get into a light colored Rambler station wagon on Elm St. The Commission found this testimony unreliable, as there were other witnesses who saw Oswald riding the bus.
+</Paragraph></character><character ID="00091" x="125" y="895" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>William Whaley</Name><Description>Taxicab driver who drove Oswald to the Oak Cliffs Area</Description><Paragraph>Taxicab driver who drove Oswald to the Oak Cliffs area and subsequently picked him out of a police lineup.
+In actuality, Whaley mis-remembered the lineup and potentially mis-identified Oswald. He also mis-remembered the ride details and some of Oswald's clothing details, but got other details correct.
+
+</Paragraph><Tag>60s</Tag><Link LT="Business" BTWN="Lee Harvey Oswald" /></character><character ID="00092" x="94" y="36" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>accents</Name><Description>List of non-english characters</Description><Paragraph>&#224;	&#225;	
+&#232;	&#233;
+&#242;	&#243;
+&#249;	&#250;
+
+</Paragraph><Tag>meta</Tag></character><character ID="00093" x="1096" y="191" szx="146" szy="50"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>Richard Milhous Nixon</Name><Description>37th President of the United States of America</Description><Paragraph>President of the U.S.A. after LBJ. Infamous political crook, was later impeached.
+John Dean: "I know, Sir. I can just tell from our conversation that these are things that you have no knowledge of."
+Richard Nixon: "You certainly can! Buggings, etc!" (p.152)
+
+
+
+</Paragraph><Tag>60s</Tag><Tag>70s</Tag><Tag>republican</Tag><Tag>rightwing</Tag><Link LT="Succeeded" BTWN="Lyndon Baines Johnson" /></character><character ID="00094" x="1180" y="458" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Charles Colson</Name><Tag>republican</Tag><Tag>70s</Tag><Description>Nixon Hatchet Man</Description><Paragraph>Nixon hatchet man who later became a born-again Christian
+</Paragraph></character><character ID="00095" x="1084" y="126" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>William Sullivan</Name><Tag>70s</Tag><Tag>republican</Tag><Description>Nixon Administration</Description><Paragraph>Nixon Administration
+</Paragraph></character><character ID="00096" x="1276" y="190" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Spiro T. Agnew</Name><Tag>60s</Tag><Tag>70s</Tag><Link LT="Employee" BTWN="Richard Milhous Nixon" /><Description>Vice President under Nixon</Description><Paragraph>weird little guy
+</Paragraph></character><character ID="00097" x="1269" y="252" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>H. R. Haldeman</Name><Description>in the nixon administration</Description><Paragraph>a.k.a. Bob Haldeman
+White House Chief of Staff for Nixon
+Portrayed by the tapes as one of the more mature members
+
+p.204 - Believes that the Secret Service has been bugged
+</Paragraph><Tag>70s</Tag><Tag>republican</Tag><Link LT="Employee" BTWN="Richard Milhous Nixon" /></character><character ID="00098" x="714" y="250" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>John Erlichman</Name><Description>nixon administration</Description><Paragraph>White House Counsel in the Nixon Administration
+
+</Paragraph><Tag>70s</Tag><Link LT="Employee" BTWN="Richard Milhous Nixon" /></character><character ID="00099" x="903" y="181" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>John Dean</Name><Description>Counsel to President Nixon</Description><Paragraph>Wrapped up in the Watergate affair and allegedly witheld information from the President until March 21st, 1973
+Knows Fred Larue and Tom Pappas as unscrupulous people who should not be trusted to gather money for blackmail payments.
+"And that means you have to go to Vegas with it or a bookmaker in New York City. I have learned all these things after the fact. I will be in great shape for the next time around." (p.173)
+</Paragraph><Tag>70s</Tag><Link LT="Employee" BTWN="Richard Milhous Nixon" /></character><character ID="00100" x="921" y="102" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Jack Caulfield</Name><Tag>60s</Tag><Tag>70s</Tag><Link LT="Employee" BTWN="Richard Milhous Nixon" /><Link LT="Contact" BTWN="John Dean" /><Description>Former Nixon Bodyguard</Description><Paragraph>Contacted by John Dean to investigate setting up a "perfectly legitimate campaign intelligence operation" (p. 134)
+Jack was Nixon's bodyguard from before the days of candidate protection, an old city policeman.
+Eventually he was not selected to run the operation.
+</Paragraph></character><character ID="00101" x="1237" y="376" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Gordon Liddy</Name><Description>Former FBI man</Description><Paragraph>G. Gordon Liddy
+"a hell of a good man and not only that, a good lawyer" (p.135)
+Allegedly, in January 1972, he presented a plan to disrupt the Democratic machine involving "...codes, black bag operations, kidnapping, providing prostitutes to weaken the opposition, bugging, mugging teams"
+
+</Paragraph><Tag>70s</Tag><Link LT="Business" BTWN="Charles Colson" /></character><character ID="00102" x="713" y="333" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>E. Howard Hunt</Name><Description>Intelligence asset associated with the Nixon administration</Description><Paragraph>Everette Howard Hunt Jr.
+Intelligence asset associated with the Nixon administration. Eventually began to demand payments for covering up his knowledge of Watergate after his wife's tragic death
+"I will bring John Erlichman down to his knees and put him in jail. I have done enough seamy things for him and Krogh, they'll never survive it." (p.144)
+Served as an intelligence officer in the CIA during the 1954 Guatemalan coup and during the 1961 Bay of Pigs invasion, where he headed Brigade 2506 . Made his way into the Nixon administration where he ran wiretapping and burglary operations.
+a.k.a. Robert Dietrich, Gordon Davis, David St. John, Edward Warren, Edward J. Hamilton, Hugh W. Newstead, Eduardo
+
+</Paragraph><Tag>70s</Tag><Link LT="Business" BTWN="John Erlichman" /><Link LT="Employee" BTWN="CIA" /></character><character ID="00103" x="912" y="271" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Larry O'Brien</Name><Tag>70s</Tag><Tag>republican</Tag><Link LT="Employee" BTWN="Richard Milhous Nixon" /><Link LT="Contact" BTWN="John Dean" /><Link LT="Contact" BTWN="E. Howard Hunt" /><Description>Lawer at the Committee to Re-Elect</Description><Paragraph>Lawyer at the committee to re-elect, interface between E. Howard Hunt and John Dean
+</Paragraph></character><location ID="00104" x="664" y="41" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Brookings Institute</Name><Tag>70s</Tag><Description>Think Tank Holding the Pentagon Papers</Description><Paragraph>Think tank holding the Pentagon Papers. Considered by John Erlichman and potentially the rest of the Dirty Tricks campaign as a target for burglary.
+</Paragraph></location><character ID="00105" x="661" y="115" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Daniel Ellsburg</Name><Description>Employee of the RAND Corporation who leaked the Pentagon Papers</Description><Paragraph>Former employee of the RAND Corporation who leaked the Pentagon Papers. 
+Born to a Jewish family who later converted to Christian scientists.
+
+</Paragraph><Tag>70s</Tag><Link LT="Employee" BTWN="RAND Corporation" /></character><organization ID="00106" x="660" y="183" szx="146" szy="36"><Source>Report of the Warren Commision</Source><Author>Bantam Books</Author><Name>RAND Corporation</Name><Tag>70s</Tag><Description>Semigovernmental Think Tank</Description><Paragraph>Contraction of "Research ANd Development", a policy institute who studied the governemnt's conventional and nuclear policies.
+</Paragraph></organization><organization ID="00107" x="595" y="428" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>White House Special Operations Unit</Name><Tag>70s</Tag><Description>Organized to stop leaks and play pranks</Description><Paragraph>White House Organization led by Edil Krogh.
+</Paragraph></organization><character ID="00108" x="815" y="391" szx="146" szy="36"><Source>White House Transcripts</Source><Author>Richard Nixon</Author><Name>Edil Krogh</Name><Description>Leader of the White House Special Operations Unit</Description><Paragraph>Edil 'Bud' Krogh
+Perjured himself to a grand jury when asked if he knew the Cubans.
+</Paragraph><Tag>70s</Tag><Link LT="Member" BTWN="White House Special Operations Unit" /></character><organization ID="00109" x="1067" y="685" szx="146" szy="66"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Committee for the Re-Election of the President</Name><Tag>70s</Tag><Description>The Committee, or CRP</Description><Paragraph>Spun up to employ various Nixon lackeys and play tricks, pranks, and scams on the Democratic Party
+</Paragraph></organization><character ID="00110" x="1067" y="622" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Jeb Magruder</Name><Tag>70s</Tag><Link LT="Employee" BTWN="Committee for the Re-Election of the President" /><Description>Employee of the CRP</Description><Paragraph>"At least he can't do any harm there"
+</Paragraph></character><character ID="00111" x="843" y="560" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Rothblatt</Name><Tag>70s</Tag><Description>Lawyer for the Cubans</Description><Paragraph>White House connected lawyer for the Cubans who helped E. Howard Hunt carry out his election shenanigans.
+</Paragraph></character><character ID="00112" x="529" y="309" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Bittman</Name><Description>Lawyer for E. Howard Hunt</Description><Paragraph>Lawyer for E. Howard Hunt, has some visibility into the Dirty Tricks campaign
+"An excellent criminal lawyer from the Democratic Era of Bobby Kennedy." (p.145)
+
+William O. Bittman
+
+
+</Paragraph><Tag>60s</Tag><Tag>70s</Tag><Link LT="Business" BTWN="E. Howard Hunt" /></character><organization ID="00113" x="1005" y="447" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Cuban Committee</Name><Tag>70s</Tag><Description>Cuban Committee</Description><Paragraph>Committee connected to Nixon's White House, described as an option to wash money for blackmail payments.
+</Paragraph></organization><organization ID="00114" x="535" y="238" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Richard Nixon</Author><Name>Eastern Asian Defense</Name><Tag>70s</Tag><Link LT="Target" BTWN="E. Howard Hunt" /><Description>Unknown White House Linked Org</Description><Paragraph>White House Linked Org
+</Paragraph></organization><character ID="00115" x="1529" y="514" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Vernon D. Acree</Name><Tag>70s</Tag><Description>Commissioner of the Bureau of Customs</Description><Paragraph>In the "Who's Who" section of 
+</Paragraph></character><character ID="00116" x="1532" y="462" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Sherman Adams</Name><Tag>50s</Tag><Description>Top Assistant to President Eisenhower</Description><Paragraph>From the "Who's-Who" section of The White House Transcripts:
+	esigned after a gift-taking scandal
+</Paragraph></character><character ID="00117" x="1051" y="508" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Gerald Alch</Name><Tag>70s</Tag><Description>Attorney for James M. McCord Jr.</Description><Paragraph>From the "Who's-Who" section of The White House Transcripts
+</Paragraph></character><character ID="00118" x="1317" y="106" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>John Alexander</Name><Description>Law Partner in the firm Mudge Rose Guthrie and Alexander</Description><Paragraph>From the "Who's Who" section of The Whitehouse Transcripts
+Allegedly the president's former partner at the law firm of Mudge Rose Guthrie and Alexander
+
+</Paragraph><Tag>70s</Tag><Link LT="Alleged" BTWN="Richard Milhous Nixon" /></character><character ID="00119" x="396" y="461" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Robert H. Allen</Name><Tag /><Description>President of Gulf Resources and Chemical Corporation</Description><Paragraph>From the "Who's Who" in The White House Transcripts
+</Paragraph></character><organization ID="00120" x="1317" y="47" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Mudge Rose Guthrie Alexander</Name><Tag /><Link LT="Business" BTWN="John Alexander" /><Description>Law firm connected to President Nixon</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></organization><organization ID="00121" x="185" y="457" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Gulf Resources and Chemical Corporation</Name><Tag /><Link LT="Business" BTWN="Robert H. Allen" /><Description>Company in Houston</Description><Paragraph>From the "Who's Who" section in The White House Transcripts
+</Paragraph></organization><character ID="00122" x="1245" y="617" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Dwayne Andreas</Name><Tag /><Description>Minnesota Grain Executive</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	A Minnesota grain executive who made a contribution to Nixon 1972 campaign
+</Paragraph></character><character ID="00123" x="1044" y="561" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>F. Lee Baily</Name><Tag /><Description>Boston Attorney representing James W. McCord Jr.</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Boston attorney representing James W. McCord Jr.
+</Paragraph></character><character ID="00124" x="893" y="511" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>James W. McCord Jr.</Name><Tag>70s</Tag><Tag>watergate</Tag><Link LT="Client" BTWN="Gerald Alch" /><Description>Convicted Watergate Participant</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00125" x="1531" y="415" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Howard H. Baker Jr. </Name><Tag /><Description>Senator from Tennessee, (R)</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Tennesse Republican (Senator), vice chairman of the Senate Watergate committee
+</Paragraph></character><character ID="00125" x="1531" y="415" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Howard H. Baker Jr. </Name><Tag>republican</Tag><Description>Senator from Tennessee, (R)</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Tennesse Republican (Senator), vice chairman of the Senate Watergate committee
+</Paragraph></character><character ID="00126" x="303" y="831" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Alfred C. Baldwin, 3rd</Name><Tag /><Link LT="Business" BTWN="FBI" /><Description>Fomer F.B.I. Agent</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Former F.B.I. agent hired by McCord, a member of the Watergate burglary team
+</Paragraph></character><character ID="00127" x="1540" y="312" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Bernard Barker</Name><Tag>watergate</Tag><Description>Convicted Watergate Burglar</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00128" x="1524" y="263" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Birch Bayh</Name><Tag>democrat</Tag><Description>Senator from Indiana, Democrat</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00129" x="1523" y="219" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Maurice M. Bernbaum</Name><Tag /><Description>Former Ambassador</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00130" x="349" y="270" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Carl Bernstein</Name><Tag /><Description>Washington Post Reporter</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><organization ID="00131" x="333" y="310" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>The Washington Post</Name><Tag /><Link LT="Business" BTWN="Carl Bernstein" /><Description>National Newspaper</Description><Paragraph>
+</Paragraph></organization><character ID="00132" x="1524" y="174" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Daniel J. Berrigan</Name><Tag>leftwing</Tag><Description>antiwar activist</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00133" x="1506" y="82" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Philip F. Berrigan</Name><Tag>leftwing</Tag><Description>antiwar activist, Reverend</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00134" x="904" y="333" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>William O. Bittman</Name><Tag /><Link LT="Business" BTWN="E. Howard Hunt" /><Description>Attorney for E. Howard Hunt</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	attorney for E. Howard Hunt Jr.
+</Paragraph></character><character ID="00135" x="666" y="500" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Chester Bowles</Name><Tag /><Description>Former Ambassador to India</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00136" x="306" y="409" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Edward W. Brooke</Name><Tag>republican</Tag><Description>Senator from Massachusetts (R)</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Massachusetts Republican
+</Paragraph></character><character ID="00137" x="1509" y="125" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Garry Brown</Name><Tag>republican</Tag><Description>Representative (R) on the Patman Committee</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00138" x="1531" y="366" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Howard H. Baker Jr.</Name><Tag>republican</Tag><Description>Senator (R) from Tennessee</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Tennessee Republican, vice chairman of the Senate Watergate Committee
+</Paragraph></character><character ID="00139" x="1529" y="672" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>William B. Bryant</Name><Tag /><Description>U.S. District Court Judge, District of Columbia</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Judge in the District of Columbia
+</Paragraph></character><character ID="00140" x="1528" y="618" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Patrick J. Buchanan</Name><Tag /><Description>Special Consultan to the President</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00141" x="1530" y="729" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Stephen Bull</Name><Tag /><Description>Special Assistant to President Nixon</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00142" x="1527" y="562" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Joseph Busch</Name><Tag /><Description>Los Angeles District Attorney</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00143" x="981" y="775" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>George Bush</Name><Tag /><Description>Republican National Chairman</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Probably the elder Bush
+</Paragraph></character><character ID="00144" x="1211" y="765" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Alexander P. Butterfield</Name><Tag /><Description>Former Presidential Appointments Secretary</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+</Paragraph></character><character ID="00145" x="1351" y="455" szx="146" szy="50"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>J. Fred Jr. Buzhardt</Name><Tag /><Description>Special Counsel to President Nixon</Description><Paragraph>
+</Paragraph></character><character ID="00146" x="1325" y="548" szx="146" szy="36"><Source>The White House Transcripts</Source><Author>Bantam Books</Author><Name>Sam J. Ervin Jr.</Name><Tag>democrat</Tag><Description>Senator from North Carolina (D)</Description><Paragraph>From the "Who's Who" section of The White House Transcripts
+	Senator from North Carolina, Chairman of the Senate Watergate Committee
+</Paragraph></character></Note>
